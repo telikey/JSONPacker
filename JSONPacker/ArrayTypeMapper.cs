@@ -11,7 +11,7 @@ namespace JSONPacker
 
     internal class ArrayTypeMapper
     {
-        public object MapTo(object[] inArray, Type type)
+        public object MapTo(dynamic inArray, Type type)
         {
             if (!type.IsArray)
             {
@@ -31,7 +31,7 @@ namespace JSONPacker
             }
         }
 
-        public object[] MapFrom(object inObject)
+        public dynamic MapFrom(object inObject)
         {
             var objectType = inObject.GetType();
             var toArrayMethod = objectType.GetMethod("ToArray");
@@ -43,7 +43,7 @@ namespace JSONPacker
             {
                 if (objectType.IsArray)
                 {
-                    return inObject as object[];
+                    return inObject as dynamic;
                 }
                 else
                 {

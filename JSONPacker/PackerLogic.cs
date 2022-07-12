@@ -109,7 +109,7 @@ namespace JSONPacker
                     {
                         if (dtoField.FieldType.IsArray)
                         {
-                            var value = (object[])dtoField.GetValue(inObject);
+                            var value = dtoField.GetValue(inObject);
                             var arrayValue = _arrayTypeProcess.MapTo(value,classField.FieldType);
                             classField.SetValue(result, arrayValue);
                         }

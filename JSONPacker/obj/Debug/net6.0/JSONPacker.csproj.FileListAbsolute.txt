@@ -10,3 +10,15 @@ C:\Users\Admin\Desktop\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.dll
 C:\Users\Admin\Desktop\JSONPacker\JSONPacker\obj\Debug\net6.0\refint\JSONPacker.dll
 C:\Users\Admin\Desktop\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.pdb
 C:\Users\Admin\Desktop\JSONPacker\JSONPacker\obj\Debug\net6.0\ref\JSONPacker.dll
+C:\git\Loc\JSONPacker\JSONPacker\bin\Debug\net6.0\JSONPacker.deps.json
+C:\git\Loc\JSONPacker\JSONPacker\bin\Debug\net6.0\JSONPacker.dll
+C:\git\Loc\JSONPacker\JSONPacker\bin\Debug\net6.0\JSONPacker.pdb
+C:\git\Loc\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.csproj.AssemblyReference.cache
+C:\git\Loc\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Loc\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.AssemblyInfoInputs.cache
+C:\git\Loc\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.AssemblyInfo.cs
+C:\git\Loc\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.csproj.CoreCompileInputs.cache
+C:\git\Loc\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.dll
+C:\git\Loc\JSONPacker\JSONPacker\obj\Debug\net6.0\refint\JSONPacker.dll
+C:\git\Loc\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.pdb
+C:\git\Loc\JSONPacker\JSONPacker\obj\Debug\net6.0\ref\JSONPacker.dll

@@ -22,3 +22,15 @@ C:\git\Loc\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.dll
 C:\git\Loc\JSONPacker\JSONPacker\obj\Debug\net6.0\refint\JSONPacker.dll
 C:\git\Loc\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.pdb
 C:\git\Loc\JSONPacker\JSONPacker\obj\Debug\net6.0\ref\JSONPacker.dll
+C:\Users\Admin\Desktop\Anime Downloader\JSONPacker\JSONPacker\bin\Debug\net6.0\JSONPacker.deps.json
+C:\Users\Admin\Desktop\Anime Downloader\JSONPacker\JSONPacker\bin\Debug\net6.0\JSONPacker.dll
+C:\Users\Admin\Desktop\Anime Downloader\JSONPacker\JSONPacker\bin\Debug\net6.0\JSONPacker.pdb
+C:\Users\Admin\Desktop\Anime Downloader\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Anime Downloader\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Anime Downloader\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Anime Downloader\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Anime Downloader\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Anime Downloader\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.dll
+C:\Users\Admin\Desktop\Anime Downloader\JSONPacker\JSONPacker\obj\Debug\net6.0\refint\JSONPacker.dll
+C:\Users\Admin\Desktop\Anime Downloader\JSONPacker\JSONPacker\obj\Debug\net6.0\JSONPacker.pdb
+C:\Users\Admin\Desktop\Anime Downloader\JSONPacker\JSONPacker\obj\Debug\net6.0\ref\JSONPacker.dll

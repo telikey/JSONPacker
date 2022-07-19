@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\git\\Loc\\JSONPacker\\JSONPacker\\JSONPacker.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Anime Downloader\\JSONPacker\\JSONPacker\\JSONPacker.csproj": {}
   },
   "projects": {
-    "C:\\git\\Loc\\JSONPacker\\JSONPacker\\JSONPacker.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Anime Downloader\\JSONPacker\\JSONPacker\\JSONPacker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\git\\Loc\\JSONPacker\\JSONPacker\\JSONPacker.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Anime Downloader\\JSONPacker\\JSONPacker\\JSONPacker.csproj",
         "projectName": "JSONPacker",
-        "projectPath": "C:\\git\\Loc\\JSONPacker\\JSONPacker\\JSONPacker.csproj",
-        "packagesPath": "C:\\Users\\kzolotarev\\.nuget\\packages\\",
-        "outputPath": "C:\\git\\Loc\\JSONPacker\\JSONPacker\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Anime Downloader\\JSONPacker\\JSONPacker\\JSONPacker.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Anime Downloader\\JSONPacker\\JSONPacker\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\kzolotarev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
